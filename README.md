@@ -1,7 +1,8 @@
-#Hospital Pharmacy E-Commerce System
+Hospital Pharmacy E-Commerce System
 Capstone Project – Module 1 (Python Fundamental)
 
-##Project Description
+Project Description
+
 This project is a **Command Line Interface (CLI)** based mini application developed using Python.  
 It is designed to manage hospital pharmacy operations efficiently.
 
@@ -21,7 +22,8 @@ This project applies fundamental Python concepts such as:
 
 ---
 
-##Background
+Background
+
 Hospital pharmacy management is often handled manually, which can lead to:
 - Stock miscalculations
 - Transaction errors
@@ -35,19 +37,19 @@ Therefore, this system was developed to:
 
 ---
 
-##Main Features
+Main Features
 
-###Medicine Management (CRUD)
+Medicine Management (CRUD)
 - Add medicine
 - View medicine list
 - Update medicine data
 - Delete medicine
 
-###Customer Management (CRUD)
+Customer Management (CRUD)
 - Add customer
 - View customer data
 
-###Sales Transaction
+Sales Transaction
 - Customer & medicine ID validation
 - Automatic stock update
 - Automatic discount system:
@@ -55,14 +57,15 @@ Therefore, this system was developed to:
   - 5% discount for quantity ≥ 10
 - Transaction data recording
 
-###Sales Report
+Sales Report
 - Total revenue
 - Best-selling medicine
 - Most active customer
 
 ---
 
-##Programming Concepts Used
+Programming Concepts Used:
+
 - Regular Functions
 - Looping (while & for)
 - Conditional Statements (if-elif-else)
@@ -73,7 +76,7 @@ Therefore, this system was developed to:
 
 ---
 
-##How to Run the Program
+How to Run the Program
 
 1. Clone or download this repository
 2. Make sure Python is installed
